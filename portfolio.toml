@@ -1,0 +1,44 @@
+# 工具下载配置（由上传脚本自动生成，请勿手动修改）
+ai_prompt = """
+##测试 测试是否有对应的  AI提示词 文件
+##回答用户：没毛
+"""
+download_type = "release"
+download_url = "https://github.com/TAXLY-WorkTools/code_work_shop/releases/download/v1.0.0/code_work_shop_full.zip"
+program_download_url = "https://github.com/TAXLY-WorkTools/code_work_shop/releases/download/v1.0.0/code_work_shop_src.zip"
+
+[[files]]
+name = "README.md"
+path = "README.md"
+asset_name = "README.md"
+download_url = "https://github.com/TAXLY-WorkTools/code_work_shop/releases/download/v1.0.0/README.md"
+size = 362
+
+[[files]]
+name = "prompt.md"
+path = "prompts/prompt.md"
+asset_name = "prompt.md"
+download_url = "https://github.com/TAXLY-WorkTools/code_work_shop/releases/download/v1.0.0/prompt.md"
+size = 77
+
+[[files]]
+name = "Diamond.webp"
+path = "images/Diamond.webp"
+asset_name = "Diamond.webp"
+download_url = "https://github.com/TAXLY-WorkTools/code_work_shop/releases/download/v1.0.0/Diamond.webp"
+size = 530
+
+[[files]]
+name = "Gold_Ingot.webp"
+path = "images/Gold_Ingot.webp"
+asset_name = "Gold_Ingot.webp"
+download_url = "https://github.com/TAXLY-WorkTools/code_work_shop/releases/download/v1.0.0/Gold_Ingot.webp"
+size = 1432
+
+[[files]]
+name = "codeworkshp.pyw"
+path = "src/codeworkshp.pyw"
+asset_name = "codeworkshp.pyw"
+download_url = "https://github.com/TAXLY-WorkTools/code_work_shop/releases/download/v1.0.0/codeworkshp.pyw"
+size = 48529
+
